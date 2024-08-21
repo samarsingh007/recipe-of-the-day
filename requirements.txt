@@ -1,0 +1,10 @@
+Django==4.1.5
+djangorestframework==3.14.0
+django-cors-headers==3.13.0
+
+# React-related dependencies (should be in package.json for the frontend)
+# Note: These are just mentioned here for reference, and are not included in the requirements.txt.
+# react
+# react-dom
+# react-router-dom
+# axios
