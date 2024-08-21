@@ -6,7 +6,7 @@ The 'Recipe of the Day' application is a web-based platform that displays a rand
 ## Setup and Installation
 
 ### Clone the Repository
-- **Command**: `git clone https://github.com/yourusername/recipe-of-the-day.git`
+- **Command**: `git clone https://github.com/samarsingh007/recipe-of-the-day.git`
 - **Description**: Clones the repository to your local machine.
 
 ### Backend Setup (Django)
