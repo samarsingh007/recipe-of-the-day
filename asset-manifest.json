@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/recipe-of-the-day/static/css/main.dcd419d4.css",
+    "main.js": "/recipe-of-the-day/static/js/main.c5e8a61b.js",
+    "static/js/453.25aceccc.chunk.js": "/recipe-of-the-day/static/js/453.25aceccc.chunk.js",
+    "index.html": "/recipe-of-the-day/index.html",
+    "main.dcd419d4.css.map": "/recipe-of-the-day/static/css/main.dcd419d4.css.map",
+    "main.c5e8a61b.js.map": "/recipe-of-the-day/static/js/main.c5e8a61b.js.map",
+    "453.25aceccc.chunk.js.map": "/recipe-of-the-day/static/js/453.25aceccc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcd419d4.css",
+    "static/js/main.c5e8a61b.js"
+  ]
+}
